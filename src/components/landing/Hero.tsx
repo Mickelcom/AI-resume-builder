@@ -45,13 +45,13 @@ export default function Hero() {
 
             <button className="bg-violet-500 hover:bg-violet-400 transition-all px-8 py-4 rounded-2xl font-semibold text-md shadow-lg shadow-violet-500/20">
 
-              Start Building
+              Resume Analyser
 
             </button>
 
             <button className="border border-zinc-700 hover:border-zinc-500 transition-all px-8 py-4 rounded-2xl text-md">
 
-              Live Demo
+              Resume Builder
 
             </button>
 

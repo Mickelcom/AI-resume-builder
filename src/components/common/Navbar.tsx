@@ -18,18 +18,7 @@ export default function Navbar() {
     <nav className="w-full border-b border-zinc-800 bg-black/40 backdrop-blur-xl sticky top-0 z-50">
 
       <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
-
-        <Link
-          href="/"
-          className="flex items-center gap-2 text-xl font-bold text-white"
-        >
-
-          <Sparkles className="w-5 h-5 text-violet-400" />
-
-          ATS AI
-
-        </Link>
-
+        <img src="/White logo.png" alt="Athenura" width={150}/>
         <div className="flex items-center gap-6 text-sm text-zinc-300">
 
           <a href="#features">
